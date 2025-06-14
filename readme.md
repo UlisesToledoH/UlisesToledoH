@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-4479A1?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-4479A1?style=flat&logo=java&logoColor=white"/>
 </p>
 
 ---
