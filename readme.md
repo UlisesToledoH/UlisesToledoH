@@ -2,7 +2,7 @@
 <h3 align="center">Apasionado por el desarrollo en C++, .NET e IA</h3>
 
 - 💻 Actualmente trabajando en proyectos con **C / C++** ,  **.NET Framework**,  **Java** y **Python**
-- 🎓 Egresado del IPN – ¡Politécnico de corazón! 💛💜
+- 🎓 Egresado del IPN – ¡Politécnico de corazón! 
 - 🌱 Aprendiendo más sobre estructuras de datos, POO y programación competitiva.
 - 📫 Contáctame: ugth13@gmail.com
 
