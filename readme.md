@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ulises Toledo</h1>
-<h3 align="center">Apasionado por el desarrollo en C++, .NET y la tecnología</h3>
+<h3 align="center">Apasionado por el desarrollo en C++, .NET e IA</h3>
 
-- 💻 Actualmente trabajando en proyectos con **C / C++** y **.NET Framework**
+- 💻 Actualmente trabajando en proyectos con **C / C++** ,  **.NET Framework**,  **Java** y **Python**
 - 🎓 Egresado del IPN – ¡Politécnico de corazón! 💛💜
 - 🌱 Aprendiendo más sobre estructuras de datos, POO y programación competitiva.
-- 📫 Contáctame: ulises.toledo@example.com (o tu correo)
+- 📫 Contáctame: ugth13@gmail.com
 
 ---
 
