@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulises Toledo</h1>
-<h2 aligh="center"> <img src="https://www.codewars.com/users/UlisesToledo/badges/small"/></h2>
-<h3 align="center">Apasionado por el desarrollo en C++, .NET e IA</h3>
 
+<h3 align="center">Apasionado por el desarrollo en C++, .NET e IA</h3>
+<img src="https://www.codewars.com/users/UlisesToledo/badges/small"/>
 - 💻 Actualmente trabajando en proyectos con **C / C++** ,  **.NET Framework**,  **Java** y **Python**
 - 🎓 Egresado del IPN – ¡Politécnico de corazón! 
 - 🌱 Aprendiendo más sobre estructuras de datos, POO y programación competitiva.
