@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ulises Toledo</h1>
+<h2 aligh="center"> <img src="https://www.codewars.com/users/UlisesToledo/badges/small"/></h2>
 <h3 align="center">Apasionado por el desarrollo en C++, .NET e IA</h3>
 
 - 💻 Actualmente trabajando en proyectos con **C / C++** ,  **.NET Framework**,  **Java** y **Python**
@@ -21,7 +22,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://www.codewars.com/users/UlisesToledo/badges/small"/>
   
 </p>
 
