@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://www.codewars.com/users/UlisesToledo/badges/small"/>
+  
 </p>
 
 ---
