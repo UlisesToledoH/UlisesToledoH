@@ -28,7 +28,7 @@
 ###Certificaciones
 
 <p align="left">
-  <img src="https://www.credly.com/badges/9027858d-a025-4c9e-a903-f2abcdf0f715/public_url"/>
+  <img src="https://www.credly.com/org/google-cloud/badge/professional-cloud-developer-certification"/>
 </p>
 
 
