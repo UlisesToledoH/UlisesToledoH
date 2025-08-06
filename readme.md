@@ -28,7 +28,7 @@
 ### Certificaciones
 
 <p align="left">
-  <img src="https://images.credly.com/size/680x680/images/614465c6-1d80-4ae6-a323-753de224422a/image.png" width=500 height=400 />
+  <img src="https://images.credly.com/size/680x680/images/614465c6-1d80-4ae6-a323-753de224422a/image.png" width=100 height=100 />
 </p>
 
 
