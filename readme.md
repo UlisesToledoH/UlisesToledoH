@@ -2,7 +2,7 @@
 
 <h3 align="center">Apasionado por el desarrollo en C++, .NET e IA</h3>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: right;">
   <img src="https://www.codewars.com/users/UlisesToledo/badges/small" alt="Badge Codewars" />
 </div>
 
