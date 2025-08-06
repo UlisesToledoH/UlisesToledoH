@@ -2,8 +2,9 @@
 
 <h3 align="center">Apasionado por el desarrollo en C++, .NET e IA</h3>
 
-<img src="https://www.codewars.com/users/UlisesToledo/badges/small" style="display: block; margin: auto;" />
-
+<div style="display: flex; justify-content: center;">
+  <img src="https://www.codewars.com/users/UlisesToledo/badges/small" alt="Badge Codewars" />
+</div>
 
 - 💻 Actualmente trabajando en proyectos con **C / C++** ,  **.NET Framework**,  **Java** y **Python**
 - 🎓 Egresado del IPN – ¡Politécnico de corazón! 
