@@ -39,13 +39,6 @@
   
 </p>
 
-<iframe 
-  src="https://www.hackerrank.com/certificates/iframe/2d7c430a5602" 
-  width="600" 
-  height="400" 
-  frameborder="0">
-</iframe>
-
 ---
 
 ### 📊 GitHub Stats
