@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ulises Toledo</h1>
+<h1 align="center">Hi , I'm Ulises Toledo</h1>
 
 <h3 align="center">Apasionado por el desarrollo en C++, .NET e IA</h3>
 
@@ -7,14 +7,14 @@
 </p>
 
 
-- 💻 Actualmente trabajando en proyectos con **C / C++** ,  **.NET Framework**,  **Java** y **Python**
-- 🎓 Egresado del IPN – ¡Politécnico de corazón! 
-- 🌱 Aprendiendo más sobre estructuras de datos, POO y programación competitiva.
-- 📫 Contáctame: ugth13@gmail.com
+-  Actualmente trabajando en proyectos con **C / C++** ,  **.NET Framework**,  **Java** y **Python**
+-  Egresado del IPN – ¡Politécnico de corazón! 
+-  Aprendiendo más sobre estructuras de datos, POO y programación competitiva.
+-  Contáctame: ugth13@gmail.com
 
 ---
 
-### 🧰 Lenguajes y Herramientas
+###  Lenguajes y Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
