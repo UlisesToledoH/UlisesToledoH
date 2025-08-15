@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=UlisesToledoH&show_icons=true&theme=blue_navy" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesToledoH&layout=compact&theme=blue_navy" alt="langs" />
